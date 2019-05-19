@@ -1,6 +1,6 @@
 # JwanaGa Group Chat
 ##### Simple PHP/SQL/JS Group Chat Web Application (University Project)
-![](s.PNG)
+![](https://raw.githubusercontent.com/RenwaX23/JwanaGaChat/master/s.PNG)
 
 - Doesn't have signup-up/login
 - Using Bootstrap for responsive page
@@ -13,3 +13,5 @@ use test;
 create table chat(txt varchar(255));
 ```
 
+##### What does JwanaGa mean?
+- ###### Cattle
