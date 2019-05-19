@@ -1,6 +1,6 @@
 # JwanaGa Group Chat
 ##### Simple PHP/SQL/JS Group Chat Web Application (University Project)
-![](s.png)
+![](s.PNG)
 
 - Doesn't have signup-up/login
 - Using Bootstrap for responsive page
